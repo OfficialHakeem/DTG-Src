@@ -121,8 +121,8 @@ class Worker(threading.Thread):
         self._db.stats._worker -= 1
 
 if __name__ == '__main__':
-  Bypass xdd #AntiDebug().start()
-  Bypass xdd #Auth().log()
+##Bypass xdd AntiDebug().start()
+##Bypass xdd Auth().log()
 
     D = Database()
     Console.printLogo()
