@@ -10,3 +10,9 @@ They are the same guys who refresh my github every hours to see if i have update
 Same guys who can't even write one line of code
 
 Miserable
+
+---------
+Undetected browser for bypassing hcap:
+  - https://anty.dolphin.ru.com/
+  - https://incogniton.com/
+  - https://app.undetectable.io/login
